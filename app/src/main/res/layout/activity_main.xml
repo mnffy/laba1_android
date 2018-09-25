@@ -9,9 +9,9 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Hello World! from SEMENCHEVA"
+        android:text="Hello World! from ist115"
         android:textColor="@color/colorAccent"
-        android:textSize="24sp"
+        android:textSize="18sp"
         android:textStyle="italic"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
